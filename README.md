@@ -190,5 +190,3 @@ test['Age'] = test['Age'].fillna(age_median)  # 用 train 的填充
 MIT License - 随意使用，但请注明来源
 
 ---
-
-*Made with ❤️ for learning*
